@@ -1,0 +1,20 @@
+{
+  "name": "steamtradefarm",
+  "version": "1.0.0",
+  "description": "Steam Trade Farm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "steam"
+  ],
+  "author": "ntrongphuc1302",
+  "license": "ISC",
+  "dependencies": {
+    "steam-totp": "^2.1.2",
+    "steam-tradeoffer-manager": "^2.10.6",
+    "steam-user": "^5.0.7",
+    "steamcommunity": "^3.48.0"
+  }
+}
